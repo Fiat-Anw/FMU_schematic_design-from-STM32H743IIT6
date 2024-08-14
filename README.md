@@ -1,7 +1,7 @@
-FMU Schematic Design using KiCad
+# FMU Schematic Design using KiCad
 This repository contains the schematic design files for a Flight Management Unit (FMU) based on the STM32H743IIT6 microcontroller, created using KiCad. The FMU design includes connections for various peripherals and components necessary for flight control systems. Below is an overview of the schematics included in this project.
 
-# Table of Contents
+## Table of Contents
 - Main MCU and Peripherals Diagram
 - IMU Sensor Connection Schematic
 - Barometer Sensor Connection Schematic
@@ -22,7 +22,7 @@ This repository contains the schematic design files for a Flight Management Unit
 - FMU PPM IN and PWM Port Schematic
 - Supply Route Schematic
 
-# Main MCU and Peripherals Diagram
+## Main MCU and Peripherals Diagram
 This schematic shows the central microcontroller (STM32H743IIT6) and its connections to key peripherals. It includes:
 - Power supply connections
 - Clock source
